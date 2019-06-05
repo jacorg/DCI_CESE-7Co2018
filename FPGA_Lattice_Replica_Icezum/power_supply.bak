@@ -4,14 +4,14 @@ EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 2 2
+Sheet 2 4
 Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
-Comment2 ""
-Comment3 ""
+Date "2019-06-03"
+Rev "v1.0"
+Comp "Especialización en Sistemas Embebidos - DCI (7 Cohorte )"
+Comment1 "Proyecto para trabajo final de la materia DCI - CESE-7Co2018"
+Comment2 "Revisor del trabajo: Gustavo Paredes Delayone"
+Comment3 "Revisor suplente : Rafael Oliva curso CESE en la 6 Cohorte"
 Comment4 ""
 $EndDescr
 $Comp
@@ -882,22 +882,22 @@ F 3 "" H 4750 5800 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L icezum:Power #PWR?
+L icezum:+5V #PWR074
 U 1 1 5D058192
 P 4500 5800
-F 0 "#PWR?" H 4500 5650 50  0001 C CNN
-F 1 "Power" H 4515 5973 50  0000 C CNN
+F 0 "#PWR074" H 4500 5650 50  0001 C CNN
+F 1 "+5V" H 4515 5973 50  0000 C CNN
 F 2 "" H 4500 5800 60  0000 C CNN
 F 3 "" H 4500 5800 60  0000 C CNN
 	1    4500 5800
 	1    0    0    -1  
 $EndComp
 $Comp
-L icezum:Power #PWR?
+L icezum:+5V_P #PWR075
 U 1 1 5D058B92
 P 6450 5800
-F 0 "#PWR?" H 6450 5650 50  0001 C CNN
-F 1 "Power" H 6465 5973 50  0000 C CNN
+F 0 "#PWR075" H 6450 5650 50  0001 C CNN
+F 1 "+5V_P" H 6465 5973 50  0000 C CNN
 F 2 "" H 6450 5800 60  0000 C CNN
 F 3 "" H 6450 5800 60  0000 C CNN
 	1    6450 5800

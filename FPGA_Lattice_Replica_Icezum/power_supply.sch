@@ -4,14 +4,14 @@ EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 2 2
+Sheet 2 4
 Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
-Comment2 ""
-Comment3 ""
+Date "2019-06-03"
+Rev "v1.0"
+Comp "Especialización en Sistemas Embebidos - DCI (7 Cohorte )"
+Comment1 "Proyecto para trabajo final de la materia DCI - CESE-7Co2018"
+Comment2 "Revisor del trabajo: Gustavo Paredes Delayone"
+Comment3 "Revisor suplente : Rafael Oliva curso CESE en la 6 Cohorte"
 Comment4 ""
 $EndDescr
 $Comp
