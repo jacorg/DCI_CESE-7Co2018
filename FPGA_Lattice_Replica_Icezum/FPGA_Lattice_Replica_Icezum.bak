@@ -15,31 +15,31 @@ Comment3 "Revisor suplente : Rafael Oliva curso CESE en la 6 Cohorte"
 Comment4 ""
 $EndDescr
 $Sheet
-S 2350 4550 1650 850 
+S 3200 5000 1650 850 
 U 5CF4FEF6
 F0 "Power Supply" 50
 F1 "power_supply.sch" 50
 $EndSheet
 $Sheet
-S 8000 2650 1600 850 
+S 8000 2900 1600 850 
 U 5CF846EC
 F0 "FPGA" 50
 F1 "FPGA.sch" 50
 $EndSheet
 $Sheet
-S 2400 2650 1400 750 
+S 2000 2800 1400 750 
 U 5D2E3A88
 F0 "USB_communication" 50
 F1 "USB_communication.sch" 50
 $EndSheet
 $Sheet
-S 8150 4650 1450 750 
+S 7000 5100 1450 750 
 U 5D1D3861
 F0 "Peripherical" 50
 F1 "Peripherical.sch" 50
 $EndSheet
 $Sheet
-S 4950 1400 1450 800 
+S 5100 1450 1450 800 
 U 5CFE1C7D
 F0 "socketsAndHeaders" 50
 F1 "socketsAndHeaders.sch" 50
