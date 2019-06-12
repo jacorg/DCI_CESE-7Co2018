@@ -1627,4 +1627,6 @@ Connection ~ 4750 6850
 Wire Wire Line
 	4750 6850 4750 6150
 NoConn ~ 3200 5800
+Text Notes 9200 1100 0    129  ~ 26
+General \npower \nflags
 $EndSCHEMATC

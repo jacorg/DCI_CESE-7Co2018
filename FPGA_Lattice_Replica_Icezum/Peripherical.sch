@@ -826,4 +826,24 @@ Wire Wire Line
 Connection ~ 3150 6650
 Wire Wire Line
 	1650 800  1650 1000
+Wire Notes Line
+	7550 1100 7550 6050
+Wire Notes Line
+	7550 6050 9950 6050
+Wire Notes Line
+	9950 6050 9950 1100
+Wire Notes Line
+	9950 1100 7550 1100
+Text Notes 7550 1050 0    129  ~ 26
+Polarized Output Leds
+Wire Notes Line
+	6050 4950 6050 7500
+Wire Notes Line
+	6050 7500 2350 7500
+Wire Notes Line
+	2350 7500 2350 4950
+Wire Notes Line
+	2350 4950 6050 4950
+Text Notes 3000 4850 0    129  ~ 26
+Switch buttons 1 and 2
 $EndSCHEMATC
