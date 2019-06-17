@@ -1629,4 +1629,10 @@ Wire Wire Line
 NoConn ~ 3200 5800
 Text Notes 9200 1100 0    129  ~ 26
 General \npower \nflags
+Text Notes 3700 750  0    129  ~ 26
+Esquemático de la fuente. \n
+Text Notes 3700 950  0    90   ~ 18
+Debajo de cada IC se encuentra la hoja de datos\n
+Text Notes 1050 3100 0    89   ~ 0
+Led de encendido
 $EndSCHEMATC

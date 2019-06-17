@@ -46,11 +46,11 @@ F1 "socketsAndHeaders.sch" 50
 $EndSheet
 Text Notes 2750 5450 0    129  ~ 26
 Power Supply
-Text Notes 7950 5500 0    129  ~ 26
+Text Notes 8000 5450 0    129  ~ 26
 Peripherical\n
-Text Notes 1800 3250 0    129  ~ 26
+Text Notes 1750 3250 0    129  ~ 26
 USB Communication
-Text Notes 8300 3450 0    129  ~ 26
+Text Notes 8350 3450 0    129  ~ 26
 FPGA \nLattice iCE40HX1K
 Text Notes 4850 1900 0    129  ~ 26
 Socket and Headers
