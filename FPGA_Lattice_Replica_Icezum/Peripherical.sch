@@ -15,92 +15,92 @@ Comment3 "Revisor suplente : Rafael Oliva curso CESE en la 6 Cohorte"
 Comment4 ""
 $EndDescr
 $Comp
-L Device:LED LD0
+L icezum:LED LD0
 U 1 1 5D1D395A
-P 9200 1500
-F 0 "LD0" H 9193 1245 50  0000 C CNN
-F 1 "Green" H 9193 1336 50  0000 C CNN
-F 2 "footprints:LED_0603" H 9200 1500 50  0001 C CNN
-F 3 "~" H 9200 1500 50  0001 C CNN
-	1    9200 1500
-	-1   0    0    1   
+P 8950 1500
+F 0 "LD0" H 9200 1300 50  0000 C CNN
+F 1 "Green" H 9050 1400 50  0000 C CNN
+F 2 "footprints:LED_0603" H 8950 1500 50  0001 C CNN
+F 3 "~" H 8950 1500 50  0001 C CNN
+	1    8950 1500
+	1    0    0    -1  
 $EndComp
 $Comp
-L Device:LED LD1
+L icezum:LED LD1
 U 1 1 5D1D4304
-P 9200 2000
-F 0 "LD1" H 9193 1745 50  0000 C CNN
-F 1 "Green" H 9193 1836 50  0000 C CNN
-F 2 "footprints:LED_0603" H 9200 2000 50  0001 C CNN
-F 3 "~" H 9200 2000 50  0001 C CNN
-	1    9200 2000
-	-1   0    0    1   
+P 8950 2000
+F 0 "LD1" H 9200 1800 50  0000 C CNN
+F 1 "Green" H 9050 1900 50  0000 C CNN
+F 2 "footprints:LED_0603" H 8950 2000 50  0001 C CNN
+F 3 "~" H 8950 2000 50  0001 C CNN
+	1    8950 2000
+	1    0    0    -1  
 $EndComp
 $Comp
-L Device:LED LD2
+L icezum:LED LD2
 U 1 1 5D1D467C
-P 9200 2550
-F 0 "LD2" H 9193 2295 50  0000 C CNN
-F 1 "Green" H 9193 2386 50  0000 C CNN
-F 2 "footprints:LED_0603" H 9200 2550 50  0001 C CNN
-F 3 "~" H 9200 2550 50  0001 C CNN
-	1    9200 2550
-	-1   0    0    1   
+P 8950 2550
+F 0 "LD2" H 9200 2350 50  0000 C CNN
+F 1 "Green" H 9050 2450 50  0000 C CNN
+F 2 "footprints:LED_0603" H 8950 2550 50  0001 C CNN
+F 3 "~" H 8950 2550 50  0001 C CNN
+	1    8950 2550
+	1    0    0    -1  
 $EndComp
 $Comp
-L Device:LED LD3
+L icezum:LED LD3
 U 1 1 5D1D4941
-P 9200 3100
-F 0 "LD3" H 9193 2845 50  0000 C CNN
-F 1 "Green" H 9193 2936 50  0000 C CNN
-F 2 "footprints:LED_0603" H 9200 3100 50  0001 C CNN
-F 3 "~" H 9200 3100 50  0001 C CNN
-	1    9200 3100
-	-1   0    0    1   
+P 8950 3100
+F 0 "LD3" H 9200 2900 50  0000 C CNN
+F 1 "Green" H 9050 3000 50  0000 C CNN
+F 2 "footprints:LED_0603" H 8950 3100 50  0001 C CNN
+F 3 "~" H 8950 3100 50  0001 C CNN
+	1    8950 3100
+	1    0    0    -1  
 $EndComp
 $Comp
-L Device:LED LD4
+L icezum:LED LD4
 U 1 1 5D1D4BE4
-P 9200 3700
-F 0 "LD4" H 9193 3445 50  0000 C CNN
-F 1 "Green" H 9193 3536 50  0000 C CNN
-F 2 "footprints:LED_0603" H 9200 3700 50  0001 C CNN
-F 3 "~" H 9200 3700 50  0001 C CNN
-	1    9200 3700
-	-1   0    0    1   
+P 8950 3700
+F 0 "LD4" H 9200 3500 50  0000 C CNN
+F 1 "Green" H 9050 3600 50  0000 C CNN
+F 2 "footprints:LED_0603" H 8950 3700 50  0001 C CNN
+F 3 "~" H 8950 3700 50  0001 C CNN
+	1    8950 3700
+	1    0    0    -1  
 $EndComp
 $Comp
-L Device:LED LD5
+L icezum:LED LD5
 U 1 1 5D1D4EB3
-P 9200 4300
-F 0 "LD5" H 9193 4045 50  0000 C CNN
-F 1 "Green" H 9193 4136 50  0000 C CNN
-F 2 "footprints:LED_0603" H 9200 4300 50  0001 C CNN
-F 3 "~" H 9200 4300 50  0001 C CNN
-	1    9200 4300
-	-1   0    0    1   
+P 8950 4300
+F 0 "LD5" H 9200 4100 50  0000 C CNN
+F 1 "Green" H 9050 4200 50  0000 C CNN
+F 2 "footprints:LED_0603" H 8950 4300 50  0001 C CNN
+F 3 "~" H 8950 4300 50  0001 C CNN
+	1    8950 4300
+	1    0    0    -1  
 $EndComp
 $Comp
-L Device:LED LD6
+L icezum:LED LD6
 U 1 1 5D1D527D
-P 9200 4850
-F 0 "LD6" H 9193 4595 50  0000 C CNN
-F 1 "Green" H 9193 4686 50  0000 C CNN
-F 2 "footprints:LED_0603" H 9200 4850 50  0001 C CNN
-F 3 "~" H 9200 4850 50  0001 C CNN
-	1    9200 4850
-	-1   0    0    1   
+P 8950 4850
+F 0 "LD6" H 9200 4650 50  0000 C CNN
+F 1 "Green" H 9050 4750 50  0000 C CNN
+F 2 "footprints:LED_0603" H 8950 4850 50  0001 C CNN
+F 3 "~" H 8950 4850 50  0001 C CNN
+	1    8950 4850
+	1    0    0    -1  
 $EndComp
 $Comp
-L Device:LED LD7
+L icezum:LED LD7
 U 1 1 5D1D55BB
-P 9200 5400
-F 0 "LD7" H 9193 5145 50  0000 C CNN
-F 1 "Green" H 9193 5236 50  0000 C CNN
-F 2 "footprints:LED_0603" H 9200 5400 50  0001 C CNN
-F 3 "~" H 9200 5400 50  0001 C CNN
-	1    9200 5400
-	-1   0    0    1   
+P 8950 5400
+F 0 "LD7" H 9200 5200 50  0000 C CNN
+F 1 "Green" H 9050 5300 50  0000 C CNN
+F 2 "footprints:LED_0603" H 8950 5400 50  0001 C CNN
+F 3 "~" H 8950 5400 50  0001 C CNN
+	1    8950 5400
+	1    0    0    -1  
 $EndComp
 $Comp
 L Device:R R17
@@ -108,7 +108,7 @@ U 1 1 5D1D5CC8
 P 8600 1500
 F 0 "R17" V 8393 1500 50  0000 C CNN
 F 1 "2K2±5% 0.063W" V 8484 1500 50  0000 C CNN
-F 2 "footprints:R_Array_Convex_4x0603" V 8530 1500 50  0001 C CNN
+F 2 "footprints:R_0402" V 8530 1500 50  0001 C CNN
 F 3 "~" H 8600 1500 50  0001 C CNN
 	1    8600 1500
 	0    1    1    0   
@@ -119,7 +119,7 @@ U 1 1 5D1D5DC3
 P 8600 2000
 F 0 "R18" V 8393 2000 50  0000 C CNN
 F 1 "2K2±5% 0.063W" V 8484 2000 50  0000 C CNN
-F 2 "footprints:R_Array_Convex_4x0603" V 8530 2000 50  0001 C CNN
+F 2 "footprints:R_0402" V 8530 2000 50  0001 C CNN
 F 3 "~" H 8600 2000 50  0001 C CNN
 	1    8600 2000
 	0    1    1    0   
@@ -201,61 +201,6 @@ F 3 "" H 9650 5700 50  0001 C CNN
 	1    9650 5700
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	9350 1500 9650 1500
-Wire Wire Line
-	9650 1500 9650 2000
-Wire Wire Line
-	9350 5400 9650 5400
-Connection ~ 9650 5400
-Wire Wire Line
-	9650 5400 9650 5700
-Wire Wire Line
-	9350 4850 9650 4850
-Connection ~ 9650 4850
-Wire Wire Line
-	9650 4850 9650 5400
-Wire Wire Line
-	9350 4300 9650 4300
-Connection ~ 9650 4300
-Wire Wire Line
-	9650 4300 9650 4850
-Wire Wire Line
-	9350 3700 9650 3700
-Connection ~ 9650 3700
-Wire Wire Line
-	9650 3700 9650 4300
-Wire Wire Line
-	9350 3100 9650 3100
-Connection ~ 9650 3100
-Wire Wire Line
-	9650 3100 9650 3700
-Wire Wire Line
-	9350 2550 9650 2550
-Connection ~ 9650 2550
-Wire Wire Line
-	9650 2550 9650 3100
-Wire Wire Line
-	9350 2000 9650 2000
-Connection ~ 9650 2000
-Wire Wire Line
-	9650 2000 9650 2550
-Wire Wire Line
-	8750 1500 9050 1500
-Wire Wire Line
-	8750 2000 9050 2000
-Wire Wire Line
-	8750 2550 9050 2550
-Wire Wire Line
-	8750 3100 9050 3100
-Wire Wire Line
-	8750 3700 9050 3700
-Wire Wire Line
-	8750 4300 9050 4300
-Wire Wire Line
-	8750 4850 9050 4850
-Wire Wire Line
-	8750 5400 9050 5400
 Text GLabel 8000 1500 0    50   Input ~ 0
 LED_0
 Text GLabel 8000 2000 0    50   Input ~ 0
@@ -645,7 +590,7 @@ Wire Wire Line
 Wire Wire Line
 	1850 800  1850 1000
 $Comp
-L icezum:Switch_4p SW1
+L icezum:Switch SW1
 U 1 1 5D2428C1
 P 4200 5550
 F 0 "SW1" H 4575 5743 60  0000 C CNN
@@ -656,7 +601,7 @@ F 3 "" H 4200 5550 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L icezum:Switch_4p SW2
+L icezum:Switch SW2
 U 1 1 5D243575
 P 4250 6650
 F 0 "SW2" H 4625 6843 60  0000 C CNN
@@ -785,35 +730,23 @@ Wire Wire Line
 Wire Wire Line
 	3650 7100 3650 6950
 Wire Wire Line
-	4250 6650 4250 6750
-Wire Wire Line
 	4250 6650 3650 6650
-Connection ~ 4250 6650
 Wire Wire Line
 	3650 6650 3150 6650
 Connection ~ 3650 6650
 Wire Wire Line
-	4200 5650 4200 5550
-Wire Wire Line
 	4200 5550 3650 5550
-Connection ~ 4200 5550
 Wire Wire Line
 	3650 5550 3150 5550
 Connection ~ 3650 5550
 Wire Wire Line
-	5000 6750 5000 6650
-Wire Wire Line
 	5000 6650 5500 6650
 Wire Wire Line
 	5500 6650 5500 6550
-Connection ~ 5000 6650
-Wire Wire Line
-	4950 5650 4950 5550
 Wire Wire Line
 	4950 5550 5550 5550
 Wire Wire Line
 	5550 5550 5550 5450
-Connection ~ 4950 5550
 Text GLabel 2800 5550 0    50   Output ~ 0
 U_SW1
 Text GLabel 2850 6650 0    50   Output ~ 0
@@ -846,4 +779,59 @@ Wire Notes Line
 	2350 4950 6050 4950
 Text Notes 3000 4850 0    129  ~ 26
 Switch buttons 1 and 2
+Wire Wire Line
+	9500 1500 9650 1500
+Wire Wire Line
+	9500 2000 9650 2000
+Wire Wire Line
+	9650 1500 9650 2000
+Connection ~ 9650 2000
+Wire Wire Line
+	9650 2000 9650 2550
+Wire Wire Line
+	9500 2550 9650 2550
+Connection ~ 9650 2550
+Wire Wire Line
+	9650 2550 9650 3100
+Wire Wire Line
+	9500 3100 9650 3100
+Connection ~ 9650 3100
+Wire Wire Line
+	9650 3100 9650 3700
+Wire Wire Line
+	9500 3700 9650 3700
+Connection ~ 9650 3700
+Wire Wire Line
+	9650 3700 9650 4300
+Wire Wire Line
+	9500 4300 9650 4300
+Connection ~ 9650 4300
+Wire Wire Line
+	9650 4300 9650 4850
+Wire Wire Line
+	9500 4850 9650 4850
+Connection ~ 9650 4850
+Wire Wire Line
+	8750 1500 8950 1500
+Wire Wire Line
+	8750 2000 8950 2000
+Wire Wire Line
+	8750 2550 8950 2550
+Wire Wire Line
+	8750 3100 8950 3100
+Wire Wire Line
+	8750 3700 8950 3700
+Wire Wire Line
+	8750 4300 8950 4300
+Wire Wire Line
+	8750 4850 8950 4850
+Wire Wire Line
+	9650 4850 9650 5400
+Wire Wire Line
+	8750 5400 8950 5400
+Wire Wire Line
+	9500 5400 9650 5400
+Connection ~ 9650 5400
+Wire Wire Line
+	9650 5400 9650 5700
 $EndSCHEMATC

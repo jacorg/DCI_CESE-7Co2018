@@ -392,15 +392,15 @@ F 3 "~" H 6800 4450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:LED LD10
+L icezum:LED LD10
 U 1 1 5CFF3FED
-P 5150 7000
-F 0 "LD10" H 5143 6745 50  0000 C CNN
-F 1 "Yellow" H 5143 6836 50  0000 C CNN
-F 2 "footprints:LED_0603" H 5150 7000 50  0001 C CNN
-F 3 "~" H 5150 7000 50  0001 C CNN
-	1    5150 7000
-	-1   0    0    1   
+P 4900 7000
+F 0 "LD10" H 5150 6850 50  0000 C CNN
+F 1 "Yellow" H 5100 7150 50  0000 C CNN
+F 2 "footprints:LED_0603" H 4900 7000 50  0001 C CNN
+F 3 "~" H 4900 7000 50  0001 C CNN
+	1    4900 7000
+	1    0    0    -1  
 $EndComp
 $Comp
 L Device:R R6
@@ -529,10 +529,6 @@ Wire Wire Line
 Connection ~ 4600 5200
 Wire Wire Line
 	4800 6850 4800 7000
-Wire Wire Line
-	4800 7000 5000 7000
-Wire Wire Line
-	5300 7000 5600 7000
 Wire Wire Line
 	6300 5200 6450 5200
 Wire Wire Line
@@ -1273,4 +1269,8 @@ F 3 "iCE40LPHXFamilyDataSheet.pdf" H 9350 -1100 60  0000 C CNN
 	4    8700 1350
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	5450 7000 5600 7000
+Wire Wire Line
+	4800 7000 4900 7000
 $EndSCHEMATC

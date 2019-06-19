@@ -46,11 +46,11 @@ F1 "socketsAndHeaders.sch" 50
 $EndSheet
 Text Notes 2750 5450 0    129  ~ 26
 Power Supply
-Text Notes 7950 5500 0    129  ~ 26
+Text Notes 8000 5450 0    129  ~ 26
 Peripherical\n
-Text Notes 1800 3250 0    129  ~ 26
+Text Notes 1750 3250 0    129  ~ 26
 USB Communication
-Text Notes 8300 3450 0    129  ~ 26
+Text Notes 8350 3450 0    129  ~ 26
 FPGA \nLattice iCE40HX1K
 Text Notes 4850 1900 0    129  ~ 26
 Socket and Headers
@@ -64,7 +64,7 @@ U 1 1 5D0E576C
 P 4900 6450
 F 0 "H001" H 4800 6600 50  0000 L CNN
 F 1 "MountingHole" H 4650 6350 50  0000 L CNN
-F 2 "" H 4900 6450 50  0001 C CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_ISO7380" H 4900 6450 50  0001 C CNN
 F 3 "~" H 4900 6450 50  0001 C CNN
 	1    4900 6450
 	1    0    0    -1  
@@ -75,7 +75,7 @@ U 1 1 5D0E5DF8
 P 6100 6450
 F 0 "H002" H 6000 6600 50  0000 L CNN
 F 1 "MountingHole" H 5850 6350 50  0000 L CNN
-F 2 "" H 6100 6450 50  0001 C CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_ISO7380" H 6100 6450 50  0001 C CNN
 F 3 "~" H 6100 6450 50  0001 C CNN
 	1    6100 6450
 	1    0    0    -1  
@@ -86,7 +86,7 @@ U 1 1 5D0E6006
 P 6100 7150
 F 0 "H004" H 6000 7300 50  0000 L CNN
 F 1 "MountingHole" H 5850 7050 50  0000 L CNN
-F 2 "" H 6100 7150 50  0001 C CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_ISO7380" H 6100 7150 50  0001 C CNN
 F 3 "~" H 6100 7150 50  0001 C CNN
 	1    6100 7150
 	1    0    0    -1  
@@ -97,7 +97,7 @@ U 1 1 5D0E62CA
 P 4900 7150
 F 0 "H003" H 4800 7300 50  0000 L CNN
 F 1 "MountingHole" H 4650 7050 50  0000 L CNN
-F 2 "" H 4900 7150 50  0001 C CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_ISO7380" H 4900 7150 50  0001 C CNN
 F 3 "~" H 4900 7150 50  0001 C CNN
 	1    4900 7150
 	1    0    0    -1  

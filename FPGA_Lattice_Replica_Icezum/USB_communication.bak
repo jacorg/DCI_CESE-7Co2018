@@ -367,26 +367,26 @@ F 3 "~" H 6300 6550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:LED LD9
+L icezum:LED LD9
 U 1 1 5D2FC05B
-P 5600 7150
-F 0 "LD9" V 5547 7228 50  0000 L CNN
-F 1 "Yellow" V 5638 7228 50  0000 L CNN
-F 2 "footprints:LED_0603" H 5600 7150 50  0001 C CNN
-F 3 "~" H 5600 7150 50  0001 C CNN
-	1    5600 7150
-	0    1    1    0   
+P 5600 7350
+F 0 "LD9" V 5650 7450 50  0000 L CNN
+F 1 "Yellow" V 5750 7400 50  0000 L CNN
+F 2 "footprints:LED_0603" H 5600 7350 50  0001 C CNN
+F 3 "~" H 5600 7350 50  0001 C CNN
+	1    5600 7350
+	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:LED LD8
+L icezum:LED LD8
 U 1 1 5D2FC754
-P 6300 7150
-F 0 "LD8" V 6247 7228 50  0000 L CNN
-F 1 "Green" V 6338 7228 50  0000 L CNN
-F 2 "footprints:LED_0603" H 6300 7150 50  0001 C CNN
-F 3 "~" H 6300 7150 50  0001 C CNN
-	1    6300 7150
-	0    1    1    0   
+P 6300 7350
+F 0 "LD8" V 6350 7450 50  0000 L CNN
+F 1 "Green" V 6450 7400 50  0000 L CNN
+F 2 "footprints:LED_0603" H 6300 7350 50  0001 C CNN
+F 3 "~" H 6300 7350 50  0001 C CNN
+	1    6300 7350
+	0    -1   -1   0   
 $EndComp
 $Comp
 L icezum:+3V3 #PWR0150
@@ -1094,20 +1094,7 @@ iCE_CLK
 Wire Wire Line
 	1700 7050 1450 7050
 Wire Wire Line
-	5600 7300 5600 7400
-Wire Wire Line
-	5600 7400 6300 7400
-Wire Wire Line
 	6800 7400 6800 7300
-Wire Wire Line
-	6300 7300 6300 7400
-Connection ~ 6300 7400
-Wire Wire Line
-	6300 7400 6800 7400
-Wire Wire Line
-	5600 7000 5600 6700
-Wire Wire Line
-	6300 6700 6300 7000
 Wire Wire Line
 	5000 6400 5600 6400
 Wire Wire Line
@@ -1342,4 +1329,17 @@ Wire Wire Line
 	1000 2750 750  2750
 Wire Wire Line
 	750  2750 750  2600
+Wire Wire Line
+	5600 7400 6300 7400
+Wire Wire Line
+	5600 7350 5600 7400
+Wire Wire Line
+	6300 7350 6300 7400
+Connection ~ 6300 7400
+Wire Wire Line
+	6300 7400 6800 7400
+Wire Wire Line
+	6300 6700 6300 6800
+Wire Wire Line
+	5600 6700 5600 6800
 $EndSCHEMATC
