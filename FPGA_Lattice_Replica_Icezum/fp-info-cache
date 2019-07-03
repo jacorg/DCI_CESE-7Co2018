@@ -1,4 +1,4 @@
-16026977089138829
+16030101342376829
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -44387,7 +44387,21 @@ LED led 0603 SMD smd SMT smt smdled SMDLED smtled SMTLED
 2
 2
 footprints
+logo
+
+
+0
+0
+0
+footprints
 Logo-fpgawars
+
+
+0
+0
+0
+footprints
+logoUBA
 
 
 0
